@@ -19,7 +19,7 @@ function ProtectedRoute({ children, role }) {
 
 function AppContent() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/e-sawari-pay">
       <div className="app-shell">
         <Header />
         <Routes>
