@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.DS_Store
+create_repo.js
+upload_github.cjs
+upload_github.js
+*.log
+.vscode/
